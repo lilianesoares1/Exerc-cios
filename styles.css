@@ -15,6 +15,7 @@ img {
   margin: 20px auto;
   width: 300px; /* ou 300px se quiser maior */
   height: 400px;
+  border-radius: 5px;
 }
 
 h1 {
