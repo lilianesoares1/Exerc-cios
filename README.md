@@ -3,7 +3,7 @@
 Meu primeiro site desenvolvido com HTML e CSS.  
 Criei esse site simples com a intenção de praticar HTML e CSS.  
 
-
+*falta inserir a imagem do site*
 
 Imagem utilizada no Site esta em: Creditos de Imagem
 
